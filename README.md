@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robinpradhan631
 - 👀 I’m interested in web developpment
 - 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on many compaanies which work for web design and development.
+- 💞️ I’m looking to collaborate on many companies which work for web design and development.
 - 📫 How to reach me ... rabinpradhan631@gmail.com / whatsapp : IN 8293466868
 
 <!---
